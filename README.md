@@ -46,5 +46,9 @@ The objective of this project is to analyze the Sample Superstore sales dataset 
 - Sample-Superstore.csv
 - Screenshots
 
+## Conclusion
+
+This project analyzes the Sample Superstore dataset using SQL. It covers data exploration, filtering, aggregation, business queries, and data validation to extract meaningful insights from the sales data.
+
 ## Author
 Prince Yadav
